@@ -1,0 +1,17 @@
+{
+  "name": "adstxt",
+  "version": "1.0.0",
+  "description": "test for csv files case",
+  "main": "poolthread.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execution-time": "^1.3.0",
+    "fs-extra": "^8.1.0",
+    "nodemon": "^2.0.2"
+  }
+}
